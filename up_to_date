@@ -1,0 +1,6 @@
+git add .
+git commit -m "Commit Message"
+git push
+git checkout -b "branch name"
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name
